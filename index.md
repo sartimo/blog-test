@@ -1,8 +1,4 @@
 ---
 layout: home
-title: "Happy Jekylling!"
+title: ""
 ---
-
-## You're ready to go!
-
-Start developing your Jekyll website.
